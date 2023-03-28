@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a363d8c8-b9f7-444e-96aa-8e7c1c6cc264" name="Changes" comment="added follow leader">
+      <change afterPath="$PROJECT_DIR$/utils.gd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ship.gd" beforeDir="false" afterPath="$PROJECT_DIR$/Ship.gd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ship.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Ship.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level1.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/level1.tscn" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="follow_leader" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e7bc3f2d-578e-40e7-b360-fa41b4f1c02c" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NOF9h1BqMiqviRBdiGFnsXMHsN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/jlrm01-uni/OneDrive - Inter America University of Puerto Rico, Guayama Campus/Godot/PathfindingExperiment1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a363d8c8-b9f7-444e-96aa-8e7c1c6cc264" name="Changes" comment="" />
+      <created>1679527072290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679527072290</updated>
+      <workItem from="1679527073414" duration="3485000" />
+      <workItem from="1679964606179" duration="1278000" />
+      <workItem from="1679993800231" duration="565000" />
+      <workItem from="1680012478288" duration="1312000" />
+      <workItem from="1680017631104" duration="58000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1679527260967</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679527260968</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added steering">
+      <created>1679529167354</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679529167354</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed steering">
+      <created>1679536821021</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679536821021</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed steering">
+      <created>1679540149697</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679540149697</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed steering">
+      <created>1679542373239</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679542373239</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixed steering">
+      <created>1679964656308</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679964656308</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added follow leader">
+      <created>1679970625196</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679970625196</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="added steering" />
+    <MESSAGE value="fixed steering" />
+    <MESSAGE value="added follow leader" />
+    <option name="LAST_COMMIT_MESSAGE" value="added follow leader" />
+  </component>
+</project>
